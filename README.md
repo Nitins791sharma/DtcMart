@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Install Modules First
+npm install
+
+## THEN INSTALL ALL COMMANDS TERMINAL 
+npm i react-hot-toast react-router-dom react-icons react-redux react-toastify
+
+In the project directory, you can run:
+
 ### `npm start`
 
 Runs the app in the development mode.\
